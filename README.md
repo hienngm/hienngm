@@ -8,7 +8,7 @@
 
 - 💪 I was previously a **key member** of the dev team at **Ecomdy Media - The best official TikTok Agency for Ecommerce**
 
-- 💬 I'm interested in various aspects of programming and software design including algorithms, design pattern, and system.
+- 💬 I'm interested in various aspects of programming and software design including algorithms, design pattern, and system architecture.
 
 - 📫 How to reach me **hienngm99@gmail.com**
 
