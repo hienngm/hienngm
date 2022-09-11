@@ -6,7 +6,7 @@
 
 - 🔥 I’m currently working on one of the **leading childcare projects in Australia**
 
-- 💪 I was previously a key member of the dev team at **Ecomdy Media - The best official TikTok Agency for Ecommerce**
+- 💪 I was previously a **key member** of the dev team at **Ecomdy Media - The best official TikTok Agency for Ecommerce**
 
 - 💬 I'm interested in various aspects of programming and software design including algorithms, design pattern, and system.
 
