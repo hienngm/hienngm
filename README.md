@@ -4,11 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hienngm&label=Profile%20views&color=0e75b6&style=flat" alt="hienngm" /> </p>
 
-- 🔥 I’m currently working on one of the **leading childcare projects in Australia**
+- 🔥 I’m currently developing an innovative **ticketing platform for a startup**, aiming to launch soon.
 
-- 💪 I was previously a **key member** of the dev team at **Ecomdy Media - The best official TikTok Agency for Ecommerce**
+- 💪 Previously, I was a **key developer** on one of the **leading childcare projects in Australia** and also contributed to **Ecomdy Media, the top TikTok Agency for Ecommerce**.
 
-- 💬 I'm interested in various aspects of programming and software design including algorithms, design pattern, and system architecture.
+- 💬 I have a strong interest in **programming and software design**, particularly in algorithms, design patterns, and system architecture.
+
 
 - 📫 How to reach me **hienngm99@gmail.com**
 
